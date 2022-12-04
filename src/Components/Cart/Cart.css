@@ -1,0 +1,73 @@
+.title {
+    text-align: center;
+}
+
+.title p {
+    margin-bottom: 20px;
+}
+
+.physical-info {
+    display: flex;
+    background-color: aliceblue;
+    padding: 10px;
+}
+
+.physical-info h3 {
+    margin-left: 5px;
+    padding: 10px;
+    border-radius: 10%;
+    background-color: white;
+}
+
+.cart-container {
+    background-color: white;
+    padding: 2%;
+    border-radius: 15px;
+    position: sticky;
+    top: 0;
+}
+
+.break-btn-container {
+    background-color: aliceblue;
+    padding: 50px;
+    border-radius: 10px;
+    display: flex;
+}
+
+.break-btn-container button {
+    background-color: aquamarine;
+    padding: 20px;
+    border: none;
+    margin-left: 10px;
+    border-radius: 50%;
+    cursor: pointer;
+}
+
+.break-btn-container button:hover {
+    background-color: #2bffb8;
+}
+
+.exercise-details {
+    background-color: aliceblue;
+    padding: 30px;
+    border-radius: 10px;
+}
+
+.toast-btn {
+    background-color: aquamarine;
+    padding: 15px 30px;
+    border: none;
+    border-radius: 10px;
+    margin-top: 10px;
+}
+
+.toast-btn:hover {
+    background-color: #2bffb8;
+    cursor: pointer;
+}
+
+@media screen and (max-width: 576px) {
+    .cart-container {
+        padding: 0px;
+    }
+}

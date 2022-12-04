@@ -1,0 +1,58 @@
+[
+  {
+    "id": "124e13b9-2d54-4b2f-a74d-a77b362d6ead",
+    "name": "Dumbel",
+    "age": "20-50",
+    "requiredTime": 30,
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7UEqaPHYqj8PXmQxT76KYLJ6RgS961jIDWA&usqp=CAU"
+  },
+  {
+    "id": "13cbc7ed-a61b-4883-9d42-82d7d8642b86",
+    "name": "Treadmill",
+    "age": "20-50",
+    "requiredTime": 30,
+    "img": "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1546443213-NTL29016_detail402x-2.jpg?crop=1xw:1xh;center,top&resize=480:*"
+  },
+  {
+    "id": "307f166f-1d04-4573-bc37-2f461ea9d4f7",
+    "name": "Crush cardio",
+    "age": "20-50",
+    "requiredTime": 30,
+    "img": "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1595870245-41gK0NzmeEL.jpg?crop=1xw:1xh;center,top&resize=480:*"
+  },
+  {
+    "id": "4bf9798f-63bc-4a83-b0c6-6a3b816fe922",
+    "name": "Alplanter",
+    "age": "20-50",
+    "requiredTime": 30,
+    "img": "https://m.media-amazon.com/images/I/51B63qrvMuL._SL1280_.jpg"
+  },
+  {
+    "id": "9496d72b-04ec-41f8-9bc3-0a7c9697be8e",
+    "name": "Orphin M-99",
+    "age": "20-50",
+    "requiredTime": 30,
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKWjkzVjLEmb2R-aogCV7Avt55c8v6R9FtYQ&usqp=CAU"
+  },
+  {
+    "id": "6e5593d3-557b-43cf-8dab-a5140faedfb0",
+    "name": " Marcy MWM-988",
+    "age": "20-50",
+    "requiredTime": 30,
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7HYh4UW3xhL3zbr0NFwZuJ1SpTIIzOhJRtA&usqp=CAU"
+  },
+  {
+    "id": "f6a5e6c0-5aec-4f10-84d7-bde9b6199045",
+    "name": "Statigiest",
+    "age": "20-50",
+    "requiredTime": 30,
+    "img": "https://pyxis.nymag.com/v1/imgs/d69/752/fc260df3743bd139410fa613dff8a49ad2.rsquare.w600.jpg"
+  },
+  {
+    "id": "625b4b60-611c-490c-ac0a-f3c2d2afd05c",
+    "name": "Technogym Cycle",
+    "age": "20-50",
+    "requiredTime": 30,
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwLchpd-a4AcOUBJaOjDBDiHx4VpUad-oXgYTe5YwI_O_0dSB9hWDoJTIFo6-QCOBTVC0&usqp=CAU"
+  }
+]
